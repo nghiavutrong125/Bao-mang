@@ -1,42 +1,38 @@
 import type { Link } from "../types";
 
 export const SITE = {
-  title: "Astro News",
-  description: "A news website built with Astro",
-  author: "Mohammad Rahmani",
-  url: "https://astro-news-six.vercel.app",
-  github: "https://github.com/Mrahmani71/astro-news",
+  title: "Fifty Fifty Magazine",
+  description: "Unfiltered Travel, Culture & Honest Perspectives.",
+  author: "The Editorial Desk",
+  url: "https://fiftyfiftymag.com",
+  github: "https://github.com",
   locale: "en-US",
   dir: "ltr",
   charset: "UTF-8",
   basePath: "/",
-  postsPerPage: 4,
+  postsPerPage: 6,
 };
 
 export const NAVIGATION_LINKS: Link[] = [
   {
-    href: "/categories/technology",
-    text: "Technology",
+    href: "/categories/itineraries",
+    text: "Itineraries",
   },
   {
-    href: "/categories/programming",
-    text: "Programming",
+    href: "/categories/destinations",
+    text: "Destinations",
   },
   {
-    href: "/categories/lifestyle",
-    text: "Lifestyle",
+    href: "/categories/reviews",
+    text: "Honest Reviews",
   },
   {
-    href: "/categories/productivity",
-    text: "Productivity",
+    href: "/categories/travel-tips",
+    text: "Tips & Scams",
   },
   {
-    href: "/categories/health",
-    text: "Health",
-  },
-  {
-    href: "/categories/finance",
-    text: "Finance",
+    href: "/categories/culture",
+    text: "Culture & Food",
   },
 ];
 
@@ -66,26 +62,16 @@ export const OTHER_LINKS: Link[] = [
     text: "Cookie Policy",
   },
   {
-    href: "https://astro-news-six.vercel.app/rss.xml",
+    href: "/rss.xml",
     text: "RSS",
   },
   {
-    href: "https://astro-news-six.vercel.app/sitemap-index.xml",
+    href: "/sitemap-index.xml",
     text: "Sitemap",
   },
 ];
 
 export const SOCIAL_LINKS: Link[] = [
-  {
-    href: "https://github.com",
-    text: "GitHub",
-    icon: "github",
-  },
-  {
-    href: "httpe://www.t.me",
-    text: "Telegram",
-    icon: "telegram",
-  },
   {
     href: "https://twitter.com",
     text: "Twitter",
