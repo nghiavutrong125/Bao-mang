@@ -1,6 +1,5 @@
 ---
-import { NAVIGATION_LINKS, SOCIAL_LINKS, OTHER_LINKS } from "@/lib/config";
-import Hashtag from "@/assets/svgs/hashtag.astro";
+import { SITE, NAVIGATION_LINKS, SOCIAL_LINKS, OTHER_LINKS } from "@/lib/config";
 import Icon from "../bases/icon.astro";
 ---
 
@@ -9,16 +8,12 @@ import Icon from "../bases/icon.astro";
 >
   <div class="container">
     <div class="flex flex-col gap-4">
-      <aside class="flex items-center gap-2">
-        <Hashtag />
+      <aside class="flex items-center gap-3">
+        <img src="/logo.png" alt={SITE.title} class="h-10 w-10 object-contain rounded" />
         <p>
-          <strong class="text-lg">Astro News</strong>
+          <strong class="text-lg font-serif tracking-wider">{SITE.title}</strong>
           <br />
-          A news website built with <a
-            class="underline"
-            href="https://astro.build"
-            target="_blank">Astro</a
-          >.
+          <span class="text-sm opacity-80">{SITE.description}</span>
         </p>
       </aside>
       <nav

@@ -11,10 +11,16 @@ import ThemeController from "../bases/theme-controller.astro";
 >
   <div class="navbar-start lg:w-1/2">
     <MenuDropdown />
-    <a class="text-xl px-2 text-nowrap lg:hidden" href="/">{SITE.title}</a>
+    <a class="flex items-center gap-2 text-xl px-2 text-nowrap lg:hidden font-serif font-bold tracking-wider" href="/">
+      <img src="/logo.png" alt={SITE.title} class="h-8 w-8 object-contain rounded" />
+      <span>{SITE.title}</span>
+    </a>
   </div>
   <div class="navbar-center hidden lg:flex">
-    <a class="text-xl px-2" href="/">{SITE.title}</a>
+    <a class="flex items-center gap-3 text-2xl font-serif font-bold tracking-wider px-2" href="/">
+      <img src="/logo.png" alt={SITE.title} class="h-10 w-10 object-contain rounded" />
+      <span>{SITE.title}</span>
+    </a>
   </div>
   <div class="navbar-end">
     <ThemeController />
