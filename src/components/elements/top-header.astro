@@ -1,39 +1,50 @@
 ---
-import Github from "@/assets/svgs/github.astro";
 import Search01 from "@/assets/svgs/search-01.astro";
 import MenuDropdown from "./menu-dropdown.astro";
 import { SITE } from "@/lib/config";
 import ThemeController from "../bases/theme-controller.astro";
+
+const today = new Date().toLocaleDateString("en-US", {
+  weekday: "long",
+  year: "numeric",
+  month: "short",
+  day: "numeric",
+});
 ---
 
-<div
-  class="navbar border-b border-primary-content/80 dark:border-primary-content/20"
->
-  <div class="navbar-start lg:w-1/2">
-    <MenuDropdown />
-    <a class="flex items-center gap-2 text-xl px-2 text-nowrap lg:hidden font-serif font-bold tracking-wider" href="/">
-      <img src="/logo.png" alt={SITE.title} class="h-8 w-8 object-contain rounded" />
-      <span>{SITE.title}</span>
-    </a>
+<!-- Top Utility Strip -->
+<div class="border-b border-primary-content/20 px-4 py-1.5 text-xs text-base-content/70 flex items-center justify-between container mx-auto">
+  <div class="flex items-center gap-3">
+    <div class="lg:hidden">
+      <MenuDropdown />
+    </div>
+    <span class="font-mono uppercase tracking-wider hidden sm:inline-block">{today}</span>
+    <span class="text-base-content/30 hidden md:inline-block">|</span>
+    <span class="uppercase tracking-widest text-[11px] hidden md:inline-block">The Independent Travel Journal</span>
   </div>
-  <div class="navbar-center hidden lg:flex">
-    <a class="flex items-center gap-3 text-2xl font-serif font-bold tracking-wider px-2" href="/">
-      <img src="/logo.png" alt={SITE.title} class="h-10 w-10 object-contain rounded" />
-      <span>{SITE.title}</span>
-    </a>
-  </div>
-  <div class="navbar-end">
+  <div class="flex items-center gap-1">
     <ThemeController />
-    <a class="btn btn-ghost btn-circle" href="/search" aria-label="Search">
+    <a class="btn btn-ghost btn-sm btn-circle" href="/search" aria-label="Search">
       <Search01 />
     </a>
-    <a
-      class="btn btn-ghost btn-circle"
-      href={SITE.github}
-      target="_blank"
-      aria-label="GitHub"
-    >
-      <Github />
-    </a>
   </div>
+</div>
+
+<!-- Main Magazine Masthead (To, Hoành Tráng, Chuẩn Báo Chí) -->
+<div class="py-5 md:py-8 text-center container mx-auto px-4 border-b border-primary-content/20">
+  <a href="/" class="inline-flex flex-col md:flex-row items-center justify-center gap-3 md:gap-5 group">
+    <img
+      src="/logo.png"
+      alt={SITE.title}
+      class="h-16 w-16 md:h-20 md:w-20 object-contain rounded-xl shadow-sm transition-transform duration-200 group-hover:scale-105"
+    />
+    <div class="text-center md:text-left">
+      <span class="text-3xl md:text-5xl font-serif font-black tracking-tight text-base-content block">
+        {SITE.title}
+      </span>
+      <span class="text-xs md:text-sm font-sans uppercase tracking-[0.25em] text-base-content/65 mt-1 block">
+        {SITE.description}
+      </span>
+    </div>
+  </a>
 </div>
