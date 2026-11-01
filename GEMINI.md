@@ -15,8 +15,18 @@
   - Good: "Essential Rules for Safe Winter Riding"
   - FORBIDDEN: "The 50/50 Reality Check", "The 50/50 Breakdown", "50% Magic / 50% Grind".
 
-## 3. Image & Media Policy
-* Never embed unverified or distorted AI images.
+## 3. Image SEO & Captioning Policy (MANDATORY)
+* **Every image MUST have a descriptive ALT tag and a visible editorial caption (`<figcaption>` or markdown italic caption).**
+* Captions provide vital context for Google Image Search, indexing keywords (e.g. location name, specific pass, season, landmarks).
+* Standard HTML format inside articles:
+  ```html
+  <figure class="my-6">
+    <img src="..." alt="Detailed descriptive keywords" class="w-full rounded-lg shadow-sm" loading="lazy" />
+    <figcaption class="text-xs text-center text-base-content/70 italic mt-2">
+      Contextual caption describing the scene, location, and conditions.
+    </figcaption>
+  </figure>
+  ```
 * All article photos must go through `tools/image_pipeline.py`:
   - 100% EXIF & metadata stripped.
   - No watermarks or logos.

@@ -19,5 +19,9 @@ Use this skill whenever drafting, editing, or formatting travel articles for Fif
    - **Cultural & Botanical Context:** What is blooming, harvesting, or celebrating.
    - **Practical Field Advice:** Timing windows (e.g. 8:30 AM to 4:30 PM), clothing, bike safety, and local etiquette.
    - **Summary Metadata:** SEO Tags, coordinates, and culinary highlights.
-4. **Media Standards:**
+4. **Mandatory Image SEO & Captions:**
+   - Every single embedded image MUST feature semantic markup with `<figure>` and `<figcaption>` (or visible italic caption).
+   - The caption must describe the precise landmark, weather condition, and geographical context.
+   - Google Image Search explicitly indexes `<figcaption>` text to rank images.
+5. **Media Standards:**
    - Always verify images are processed via `tools/image_pipeline.py` (stripped of EXIF, WebP compressed, hosted on Cloudflare R2 bucket `bao-mang`).
