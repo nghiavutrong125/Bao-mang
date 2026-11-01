@@ -690,5 +690,98 @@
     ],
     "caption": "Using ride-hailing apps to verify vehicle license plates and avoid taxi scams",
     "orientation": "horizontal"
+  },
+  {
+    "id": "la-vte-yearend-01",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/vientiane-year-end/vientiane-year-end-tuktuk-street-life.webp",
+    "country": "la",
+    "city": "vientiane",
+    "poi": "downtown-vientiane",
+    "route_segment": "vientiane-city-walk",
+    "suggested_day": "day-1",
+    "tags": [
+      "street-life",
+      "tuk-tuk",
+      "winter",
+      "culture",
+      "urban",
+      "lifestyle"
+    ],
+    "caption": "A tuk-tuk driver relaxing barefoot in the shade of a street tree on a quiet Vientiane avenue",
+    "orientation": "vertical"
+  },
+  {
+    "id": "la-vte-yearend-02",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/vientiane-year-end/vientiane-year-end-boulevard-festive-flags.webp",
+    "country": "la",
+    "city": "vientiane",
+    "poi": "downtown-vientiane",
+    "route_segment": "vientiane-city-walk",
+    "suggested_day": "day-1",
+    "tags": [
+      "boulevard",
+      "flags",
+      "festive",
+      "urban",
+      "architecture",
+      "sunny",
+      "hero-wide"
+    ],
+    "caption": "Wide sunlit downtown boulevard lined with colonial shophouses and festive pennant flags",
+    "orientation": "vertical"
+  },
+  {
+    "id": "la-vte-yearend-03",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/vientiane-year-end/vientiane-year-end-national-flags-avenue.webp",
+    "country": "la",
+    "city": "vientiane",
+    "poi": "downtown-vientiane",
+    "route_segment": "vientiane-city-walk",
+    "suggested_day": "day-1",
+    "tags": [
+      "street",
+      "national-day",
+      "flags",
+      "colonial",
+      "shophouse"
+    ],
+    "caption": "Strings of national and commemorative red flags draped across the tree-shaded street",
+    "orientation": "vertical"
+  },
+  {
+    "id": "la-vte-yearend-04",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/vientiane-year-end/vientiane-year-end-cultural-mural-wall.webp",
+    "country": "la",
+    "city": "vientiane",
+    "poi": "afcp-cultural-mural",
+    "route_segment": "vientiane-city-walk",
+    "suggested_day": "day-1",
+    "tags": [
+      "art",
+      "mural",
+      "culture",
+      "street-art",
+      "afcp"
+    ],
+    "caption": "The AFCP cultural preservation mural wall celebrating Lao heritage and Dok Champa blossoms",
+    "orientation": "vertical"
+  },
+  {
+    "id": "la-vte-yearend-05",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/vientiane-year-end/vientiane-year-end-downtown-rotunda-intersection.webp",
+    "country": "la",
+    "city": "vientiane",
+    "poi": "nam-phou-intersection",
+    "route_segment": "vientiane-city-walk",
+    "suggested_day": "day-1",
+    "tags": [
+      "city",
+      "intersection",
+      "modern",
+      "billboard",
+      "urban"
+    ],
+    "caption": "A bustling downtown intersection in central Vientiane beneath crisp dry-season skies",
+    "orientation": "vertical"
   }
 ]
