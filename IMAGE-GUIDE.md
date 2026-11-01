@@ -32,3 +32,4 @@ Tôi sẽ tự động chạy pipeline, nén ảnh, xóa sạch dấu vết kỹ
 2. Nhấp đúp vào file `XU-LY-ANH.bat`.
 3. Nhập tên SEO và chọn tỷ lệ ảnh.
 4. Tool sẽ tự nén, lưu trữ bản sao ở `D:\Anh_Cloud\fiftyfifty-data` và đẩy thẳng lên Cloudflare R2.
+

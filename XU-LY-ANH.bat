@@ -32,3 +32,4 @@ python tools\image_pipeline.py --input photos-raw --name "%NAME%" --aspect %ASPE
 
 echo.
 pause
+
