@@ -23,6 +23,10 @@ if (RUN_KEYSTATIC === "true") {
 export default defineConfig({
   site: SITE.url,
   base: SITE.basePath,
+  server: {
+    port: 5555,
+    host: true,
+  },
   markdown: {
     remarkPlugins: [readingTime, modifiedTime],
   },
