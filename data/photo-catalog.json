@@ -1,0 +1,694 @@
+[
+  {
+    "id": "la-vte-thatluang-01",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/pha-that-luang-vientiane/pha-that-luang-esplanade-square.webp",
+    "country": "la",
+    "city": "vientiane",
+    "poi": "pha-that-luang",
+    "route_segment": "vientiane-heritage-circuit",
+    "suggested_day": "day-1",
+    "tags": [
+      "temple",
+      "buddhism",
+      "esplanade",
+      "landscape",
+      "hero-wide",
+      "stupa"
+    ],
+    "caption": "Red-brick esplanade leading toward the Pha That Luang golden stupa under afternoon skies",
+    "orientation": "vertical"
+  },
+  {
+    "id": "la-vte-thatluang-02",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/pha-that-luang-vientiane/pha-that-luang-golden-stupa-spire.webp",
+    "country": "la",
+    "city": "vientiane",
+    "poi": "pha-that-luang",
+    "route_segment": "vientiane-heritage-circuit",
+    "suggested_day": "day-1",
+    "tags": [
+      "temple",
+      "buddhism",
+      "stupa",
+      "gold",
+      "architecture",
+      "monument"
+    ],
+    "caption": "Pha That Luang central entrance pavilion and towering golden lotus bud spire",
+    "orientation": "vertical"
+  },
+  {
+    "id": "la-vte-thatluang-03",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/pha-that-luang-vientiane/pha-that-luang-stupa-close-up.webp",
+    "country": "la",
+    "city": "vientiane",
+    "poi": "pha-that-luang",
+    "route_segment": "vientiane-heritage-circuit",
+    "suggested_day": "day-1",
+    "tags": [
+      "temple",
+      "buddhism",
+      "stupa",
+      "gold",
+      "detail",
+      "clouds"
+    ],
+    "caption": "Close-up of the 44-meter gilded stupa spire surrounded by 30 Paramita pinnacles",
+    "orientation": "vertical"
+  },
+  {
+    "id": "la-vte-thatluang-04",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/pha-that-luang-vientiane/pha-that-luang-outer-wall-view.webp",
+    "country": "la",
+    "city": "vientiane",
+    "poi": "pha-that-luang",
+    "route_segment": "vientiane-heritage-circuit",
+    "suggested_day": "day-1",
+    "tags": [
+      "temple",
+      "buddhism",
+      "architecture",
+      "wall",
+      "exterior"
+    ],
+    "caption": "Whitewashed perimeter boundary wall with traditional dark terracotta roof tiles",
+    "orientation": "vertical"
+  },
+  {
+    "id": "la-vte-thatluang-05",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/pha-that-luang-vientiane/pha-that-luang-cloister-buddhas.webp",
+    "country": "la",
+    "city": "vientiane",
+    "poi": "pha-that-luang",
+    "route_segment": "vientiane-heritage-circuit",
+    "suggested_day": "day-1",
+    "tags": [
+      "temple",
+      "buddhism",
+      "statue",
+      "cloister",
+      "gallery",
+      "gold"
+    ],
+    "caption": "Rows of golden Buddha statues inside the shaded inner perimeter cloister",
+    "orientation": "horizontal"
+  },
+  {
+    "id": "la-vte-thatluang-06",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/pha-that-luang-vientiane/pha-that-luang-cloister-parileyyaka.webp",
+    "country": "la",
+    "city": "vientiane",
+    "poi": "pha-that-luang",
+    "route_segment": "vientiane-heritage-circuit",
+    "suggested_day": "day-1",
+    "tags": [
+      "temple",
+      "buddhism",
+      "sculpture",
+      "folklore",
+      "elephant",
+      "monkey"
+    ],
+    "caption": "Parileyyaka forest scene sculpture: wild elephant and monkey offering tribute to meditating Buddha",
+    "orientation": "horizontal"
+  },
+  {
+    "id": "la-vte-thatluang-07",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/pha-that-luang-vientiane/wat-that-luang-tai-reclining-buddha-panoramic.webp",
+    "country": "la",
+    "city": "vientiane",
+    "poi": "wat-that-luang-tai",
+    "route_segment": "vientiane-heritage-circuit",
+    "suggested_day": "day-1",
+    "tags": [
+      "temple",
+      "buddhism",
+      "reclining-buddha",
+      "gold",
+      "monument",
+      "hero-wide",
+      "panoramic"
+    ],
+    "caption": "Colossal open-air Golden Reclining Buddha entering Parinirvana at Wat That Luang Tai",
+    "orientation": "horizontal"
+  },
+  {
+    "id": "la-vte-thatluang-08",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/pha-that-luang-vientiane/wat-that-luang-tai-reclining-buddha-portrait.webp",
+    "country": "la",
+    "city": "vientiane",
+    "poi": "wat-that-luang-tai",
+    "route_segment": "vientiane-heritage-circuit",
+    "suggested_day": "day-1",
+    "tags": [
+      "temple",
+      "buddhism",
+      "reclining-buddha",
+      "gold",
+      "portrait",
+      "close-up"
+    ],
+    "caption": "Portrait of the serene gilded face of the Reclining Buddha resting on an embroidered bolster",
+    "orientation": "vertical"
+  },
+  {
+    "id": "la-vte-thatluang-09",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/pha-that-luang-vientiane/wat-that-luang-neua-naga-colonnade-view.webp",
+    "country": "la",
+    "city": "vientiane",
+    "poi": "wat-that-luang-tai",
+    "route_segment": "vientiane-heritage-circuit",
+    "suggested_day": "day-1",
+    "tags": [
+      "temple",
+      "architecture",
+      "naga",
+      "framing",
+      "reclining-buddha",
+      "perspective"
+    ],
+    "caption": "Architectural perspective framed by emerald Nagas looking towards the Reclining Buddha",
+    "orientation": "vertical"
+  },
+  {
+    "id": "la-vte-thatluang-10",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/pha-that-luang-vientiane/wat-that-luang-neua-sim-facade.webp",
+    "country": "la",
+    "city": "vientiane",
+    "poi": "wat-that-luang-neua",
+    "route_segment": "vientiane-heritage-circuit",
+    "suggested_day": "day-1",
+    "tags": [
+      "temple",
+      "buddhism",
+      "architecture",
+      "sim",
+      "lan-xang",
+      "lions"
+    ],
+    "caption": "Wat That Luang Neua Sim ordination hall facade with sweeping Lan Xang rooflines",
+    "orientation": "vertical"
+  },
+  {
+    "id": "la-vte-thatluang-11",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/pha-that-luang-vientiane/wat-that-luang-neua-grand-staircase.webp",
+    "country": "la",
+    "city": "vientiane",
+    "poi": "wat-that-luang-neua",
+    "route_segment": "vientiane-heritage-circuit",
+    "suggested_day": "day-1",
+    "tags": [
+      "temple",
+      "buddhism",
+      "staircase",
+      "naga",
+      "statue",
+      "entrance"
+    ],
+    "caption": "Grand entrance staircase with standing white Buddhas and emerald Naga serpents",
+    "orientation": "vertical"
+  },
+  {
+    "id": "la-vte-thatluang-12",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/pha-that-luang-vientiane/wat-that-luang-carved-gilded-doors.webp",
+    "country": "la",
+    "city": "vientiane",
+    "poi": "wat-that-luang-neua",
+    "route_segment": "vientiane-heritage-circuit",
+    "suggested_day": "day-1",
+    "tags": [
+      "temple",
+      "craft",
+      "woodcarving",
+      "gold-leaf",
+      "door",
+      "deity"
+    ],
+    "caption": "Hand-carved solid timber temple doors gilded in gold leaf on vermilion lacquer",
+    "orientation": "vertical"
+  },
+  {
+    "id": "la-vte-thatluang-13",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/pha-that-luang-vientiane/wat-that-luang-ramayana-relief.webp",
+    "country": "la",
+    "city": "vientiane",
+    "poi": "wat-that-luang-neua",
+    "route_segment": "vientiane-heritage-circuit",
+    "suggested_day": "day-1",
+    "tags": [
+      "temple",
+      "mythology",
+      "ramayana",
+      "hanuman",
+      "relief",
+      "sculpture"
+    ],
+    "caption": "Polychrome Phra Lak Phra Ram bas-relief showing monkey warriors fighting demons",
+    "orientation": "vertical"
+  },
+  {
+    "id": "la-vte-thatluang-14",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/pha-that-luang-vientiane/wat-that-luang-garuda-caryatid.webp",
+    "country": "la",
+    "city": "vientiane",
+    "poi": "wat-that-luang-neua",
+    "route_segment": "vientiane-heritage-circuit",
+    "suggested_day": "day-1",
+    "tags": [
+      "temple",
+      "mythology",
+      "garuda",
+      "sculpture",
+      "architecture"
+    ],
+    "caption": "Emerald-and-gold Garuda caryatid column bracket supporting the temple eaves",
+    "orientation": "vertical"
+  },
+  {
+    "id": "la-vte-thatluang-15",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/pha-that-luang-vientiane/wat-that-luang-statuary-naga-deity.webp",
+    "country": "la",
+    "city": "vientiane",
+    "poi": "wat-that-luang-neua",
+    "route_segment": "vientiane-heritage-circuit",
+    "suggested_day": "day-1",
+    "tags": [
+      "temple",
+      "statue",
+      "hindu-buddhist",
+      "indra",
+      "elephant",
+      "naga"
+    ],
+    "caption": "Hindu-Buddhist syncretic statue: Indra riding celestial elephant Airavata with multi-headed Naga",
+    "orientation": "vertical"
+  },
+  {
+    "id": "la-vte-xiengkhuan-01",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/pha-that-luang-vientiane/vientiane-buddha-park-xieng-khuan.webp",
+    "country": "la",
+    "city": "vientiane",
+    "poi": "buddha-park-xieng-khuan",
+    "route_segment": "vientiane-mekong-outskirts",
+    "suggested_day": "day-2",
+    "tags": [
+      "temple",
+      "park",
+      "buddha-park",
+      "concrete",
+      "reclining-buddha",
+      "surreal",
+      "mekong"
+    ],
+    "caption": "The colossal 40-meter concrete Reclining Buddha at Xieng Khuan (Buddha Park) by the Mekong",
+    "orientation": "vertical"
+  },
+  {
+    "id": "la-vte-street-01",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/pha-that-luang-vientiane/vientiane-downtown-boulevard-flags.webp",
+    "country": "la",
+    "city": "vientiane",
+    "poi": "downtown-vientiane",
+    "route_segment": "vientiane-city-walk",
+    "suggested_day": "day-1",
+    "tags": [
+      "street",
+      "city-life",
+      "boulevard",
+      "flags",
+      "colonial",
+      "transport"
+    ],
+    "caption": "Tree-shaded downtown boulevard in central Vientiane adorned with Lao national flags",
+    "orientation": "vertical"
+  },
+  {
+    "id": "th-bkk-food-01",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/thailand-food-guide/thailand-food-guide-01.webp",
+    "country": "th",
+    "city": "bangkok",
+    "poi": "kin-kin-seafood",
+    "route_segment": "bangkok-food-trail",
+    "suggested_day": "day-1",
+    "tags": [
+      "food",
+      "seafood",
+      "crab-fried-rice",
+      "tom-yum",
+      "mango-sticky-rice",
+      "feast",
+      "hero-wide"
+    ],
+    "caption": "Lavish Thai seafood banquet at Kin Kin featuring colossal lump crab fried rice and Tom Yum",
+    "orientation": "horizontal"
+  },
+  {
+    "id": "th-bkk-boatnoodle-02",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/thailand-food-guide/thailand-food-guide-02.webp",
+    "country": "th",
+    "city": "bangkok",
+    "poi": "victory-monument-boat-noodles",
+    "route_segment": "bangkok-food-trail",
+    "suggested_day": "day-1",
+    "tags": [
+      "food",
+      "street-food",
+      "boat-noodles",
+      "market",
+      "tradition"
+    ],
+    "caption": "Stacked bowls of traditional Boat Noodles along the Victory Monument canal",
+    "orientation": "horizontal"
+  },
+  {
+    "id": "th-cnx-khaosoi-07",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/thailand-food-guide/thailand-food-guide-07.webp",
+    "country": "th",
+    "city": "chiang-mai",
+    "poi": "khao-soi-nimman",
+    "route_segment": "chiang-mai-culinary-loop",
+    "suggested_day": "day-1",
+    "tags": [
+      "food",
+      "khao-soi",
+      "curry",
+      "northern-thai",
+      "crispy-noodles"
+    ],
+    "caption": "A bowl of Chiang Mai Khao Soi with slow-simmered chicken drumstick and pickled mustard greens",
+    "orientation": "horizontal"
+  },
+  {
+    "id": "vn-hg-weather-01",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/ha-giang-january-weather/ha-giang-january-weather-landscape-01.webp",
+    "country": "vn",
+    "city": "ha-giang",
+    "poi": "dong-van-karst-plateau",
+    "route_segment": "ha-giang-loop-day-2",
+    "suggested_day": "day-2",
+    "tags": [
+      "nature",
+      "mountains",
+      "karst",
+      "landscape",
+      "hero-wide",
+      "winter"
+    ],
+    "caption": "Limestone karst peaks shrouded in January winter mist on Dong Van Karst Plateau",
+    "orientation": "horizontal"
+  },
+  {
+    "id": "vn-hg-weather-06",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/ha-giang-january-weather/ha-giang-january-weather-landscape-06.webp",
+    "country": "vn",
+    "city": "ha-giang",
+    "poi": "ma-pi-leng-pass",
+    "route_segment": "ha-giang-loop-day-3",
+    "suggested_day": "day-3",
+    "tags": [
+      "nature",
+      "pass",
+      "ma-pi-leng",
+      "nho-que",
+      "motorcycle",
+      "adventure"
+    ],
+    "caption": "Ma Pi Leng Pass cliffside road winding above the turquoise Nho Que river canyon",
+    "orientation": "horizontal"
+  },
+  {
+    "id": "vn-dli-pinkgrass-01",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/da-lat-pink-grass-season/da-lat-pink-grass-season-01.webp",
+    "country": "vn",
+    "city": "da-lat",
+    "poi": "suoi-vang-lake",
+    "route_segment": "da-lat-nature-trail",
+    "suggested_day": "day-1",
+    "tags": [
+      "nature",
+      "pink-grass",
+      "pine-forest",
+      "sunrise",
+      "dew",
+      "lake"
+    ],
+    "caption": "Pink grass hills glistening with morning dew beside Suoi Vang lake in Da Lat",
+    "orientation": "horizontal"
+  },
+  {
+    "id": "vn-han-megaworld-01",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/mega-grand-world-hanoi/mega-grand-world-hanoi-01.webp",
+    "country": "vn",
+    "city": "hanoi",
+    "poi": "mega-grand-world-hanoi",
+    "route_segment": "hanoi-suburb-day-trip",
+    "suggested_day": "day-1",
+    "tags": [
+      "entertainment",
+      "architecture",
+      "venice-canal",
+      "gondola",
+      "shopping",
+      "night-lighting"
+    ],
+    "caption": "Pastel Italian-style canal facades and Gondola boats at Mega Grand World Hanoi",
+    "orientation": "horizontal"
+  },
+  {
+    "id": "th-bkk-boatnoodle-03",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/thailand-food-guide/thailand-food-guide-03.webp",
+    "country": "th",
+    "city": "bangkok",
+    "poi": "victory-monument-boat-noodles",
+    "route_segment": "bangkok-food-trail",
+    "suggested_day": "day-1",
+    "tags": [
+      "food",
+      "boat-noodles",
+      "beef-broth",
+      "alley",
+      "counter"
+    ],
+    "caption": "Dark aromatic beef broth bowl with water spinach at Victory Monument",
+    "orientation": "horizontal"
+  },
+  {
+    "id": "th-bkk-kin-kin-04",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/thailand-food-guide/thailand-food-guide-04.webp",
+    "country": "th",
+    "city": "bangkok",
+    "poi": "kin-kin-seafood",
+    "route_segment": "bangkok-food-trail",
+    "suggested_day": "day-1",
+    "tags": [
+      "food",
+      "seafood",
+      "yellow-curry",
+      "crab",
+      "egg"
+    ],
+    "caption": "Yellow curry stir-fried colossal crab meat with egg and spring onions",
+    "orientation": "horizontal"
+  },
+  {
+    "id": "th-bkk-rosniyom-05",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/thailand-food-guide/thailand-food-guide-05.webp",
+    "country": "th",
+    "city": "bangkok",
+    "poi": "ros-niyom",
+    "route_segment": "bangkok-food-trail",
+    "suggested_day": "day-2",
+    "tags": [
+      "food",
+      "pork-skewers",
+      "moo-ping",
+      "sticky-rice",
+      "comfort-food"
+    ],
+    "caption": "Grilled marinated pork skewers (Moo Ping) served with warm sticky rice",
+    "orientation": "horizontal"
+  },
+  {
+    "id": "th-bkk-somtum-06",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/thailand-food-guide/thailand-food-guide-06.webp",
+    "country": "th",
+    "city": "bangkok",
+    "poi": "kin-kin-seafood",
+    "route_segment": "bangkok-food-trail",
+    "suggested_day": "day-1",
+    "tags": [
+      "food",
+      "som-tum",
+      "papaya-salad",
+      "peanuts",
+      "spicy"
+    ],
+    "caption": "Spicy green papaya salad (Som Tum Thai) with dried shrimp and crushed peanuts",
+    "orientation": "horizontal"
+  },
+  {
+    "id": "th-bkk-dessert-11",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/thailand-food-guide/thailand-food-guide-11.webp",
+    "country": "th",
+    "city": "bangkok",
+    "poi": "jodd-fairs-night-market",
+    "route_segment": "bangkok-night-market-trail",
+    "suggested_day": "day-1",
+    "tags": [
+      "food",
+      "night-market",
+      "dessert",
+      "coconut-pancakes",
+      "street-sweets"
+    ],
+    "caption": "Traditional crispy Thai crepes (Khanom Buang) with golden egg yolk threads",
+    "orientation": "horizontal"
+  },
+  {
+    "id": "vn-hg-weather-02",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/ha-giang-january-weather/ha-giang-january-weather-landscape-02.webp",
+    "country": "vn",
+    "city": "ha-giang",
+    "poi": "bac-sum-pass",
+    "route_segment": "ha-giang-loop-day-1",
+    "suggested_day": "day-1",
+    "tags": [
+      "nature",
+      "pass",
+      "bac-sum",
+      "hairpin-turns",
+      "motorcycle"
+    ],
+    "caption": "Winding switchbacks climbing Bac Sum Pass under morning mountain fog",
+    "orientation": "horizontal"
+  },
+  {
+    "id": "vn-hg-weather-03",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/ha-giang-january-weather/ha-giang-january-weather-landscape-03.webp",
+    "country": "vn",
+    "city": "ha-giang",
+    "poi": "quan-ba-heaven-gate",
+    "route_segment": "ha-giang-loop-day-1",
+    "suggested_day": "day-1",
+    "tags": [
+      "nature",
+      "twin-mountains",
+      "quan-ba",
+      "fairy-bosom",
+      "valley"
+    ],
+    "caption": "Panoramic view of Quan Ba Twin Mountains rising from the valley floor",
+    "orientation": "horizontal"
+  },
+  {
+    "id": "vn-hg-weather-04",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/ha-giang-january-weather/ha-giang-january-weather-landscape-04.webp",
+    "country": "vn",
+    "city": "ha-giang",
+    "poi": "dong-van-old-town",
+    "route_segment": "ha-giang-loop-day-2",
+    "suggested_day": "day-2",
+    "tags": [
+      "culture",
+      "ethnic",
+      "hmong",
+      "old-town",
+      "stone-houses"
+    ],
+    "caption": "Historic clay and stone walled houses in Dong Van Old Quarter",
+    "orientation": "horizontal"
+  },
+  {
+    "id": "vn-hg-weather-05",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/ha-giang-january-weather/ha-giang-january-weather-landscape-05.webp",
+    "country": "vn",
+    "city": "ha-giang",
+    "poi": "ma-pi-leng-skywalk",
+    "route_segment": "ha-giang-loop-day-3",
+    "suggested_day": "day-3",
+    "tags": [
+      "nature",
+      "canyon",
+      "ma-pi-leng",
+      "cliff",
+      "skywalk"
+    ],
+    "caption": "Clifftop walking trail overlooking the 800-meter drop into Nho Que canyon",
+    "orientation": "horizontal"
+  },
+  {
+    "id": "vn-dli-pinkgrass-02",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/da-lat-pink-grass-season/da-lat-pink-grass-season-02.webp",
+    "country": "vn",
+    "city": "da-lat",
+    "poi": "lonely-tree-suoi-vang",
+    "route_segment": "da-lat-nature-trail",
+    "suggested_day": "day-1",
+    "tags": [
+      "nature",
+      "lonely-tree",
+      "lake",
+      "mist",
+      "sunrise",
+      "landscape"
+    ],
+    "caption": "The iconic lonely pine tree standing above the morning mist of Suoi Vang lake",
+    "orientation": "horizontal"
+  },
+  {
+    "id": "vn-dli-pinkgrass-03",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/da-lat-pink-grass-season/da-lat-pink-grass-season-03.webp",
+    "country": "vn",
+    "city": "da-lat",
+    "poi": "thai-phien-flower-valley",
+    "route_segment": "da-lat-nature-trail",
+    "suggested_day": "day-2",
+    "tags": [
+      "nature",
+      "flower-greenhouse",
+      "lights",
+      "night",
+      "valley"
+    ],
+    "caption": "Glowing illuminated greenhouse valleys of Thai Phien at nightfall",
+    "orientation": "horizontal"
+  },
+  {
+    "id": "vn-safety-hanoi-crossing",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/vietnam-travel-safety-guide/vietnam-travel-safety-guide-01.webp",
+    "country": "vn",
+    "city": "hanoi",
+    "poi": "old-quarter-traffic",
+    "route_segment": "hanoi-old-quarter-walk",
+    "suggested_day": "day-1",
+    "tags": [
+      "safety",
+      "street",
+      "traffic",
+      "crossing",
+      "motorbikes",
+      "old-quarter"
+    ],
+    "caption": "Pedestrians navigating steady scooter traffic across a Hanoi Old Quarter street",
+    "orientation": "horizontal"
+  },
+  {
+    "id": "vn-safety-grab-ride",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/vietnam-travel-safety-guide/vietnam-travel-safety-guide-02.webp",
+    "country": "vn",
+    "city": "ho-chi-minh-city",
+    "poi": "saigon-ride-hailing",
+    "route_segment": "saigon-city-transit",
+    "suggested_day": "day-1",
+    "tags": [
+      "safety",
+      "transport",
+      "grab",
+      "taxi",
+      "app",
+      "transit"
+    ],
+    "caption": "Using ride-hailing apps to verify vehicle license plates and avoid taxi scams",
+    "orientation": "horizontal"
+  }
+]
