@@ -89,7 +89,7 @@ const authors = authorsHandler.getAuthors(article.data.authors);
                   class="flex items-center gap-2"
                 >
                   <div class="avatar">
-                    <div class="w-8 rounded-full">
+                    <div class="w-8 rounded-full border border-base-content/10 bg-white flex items-center justify-center overflow-hidden p-0.5">
                       <Image
                         src={author.data.avatar}
                         alt="author"
@@ -97,7 +97,7 @@ const authors = authorsHandler.getAuthors(article.data.authors);
                         height={48}
                         loading={"eager"}
                         format="webp"
-                        layout="constrained"
+                        class="w-full h-full object-contain"
                         quality={80}
                       />
                     </div>
