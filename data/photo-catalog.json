@@ -1349,5 +1349,476 @@
     ],
     "caption": "A stone celestial guardian spirit standing vigil with hands pressed in prayer at the temple steps",
     "orientation": "vertical"
+  },
+  {
+    "id": "la-lpq-nightmarket-01",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/luang-prabang-night-market/luang-prabang-night-market-entrance-sisavangvong.webp",
+    "country": "la",
+    "city": "luang-prabang",
+    "poi": "sisavangvong-night-market",
+    "route_segment": "luang-prabang-night-market",
+    "suggested_day": "evening",
+    "tags": [
+      "night-market",
+      "street",
+      "bags",
+      "straw",
+      "evening",
+      "textiles"
+    ],
+    "caption": "The entrance to Sisavangvong Road as twilight falls: blue awnings, soft lantern light, and rows of handmade straw totes",
+    "orientation": "vertical"
+  },
+  {
+    "id": "la-lpq-nightmarket-02",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/luang-prabang-night-market/luang-prabang-night-market-beerlao-tshirt-vendors.webp",
+    "country": "la",
+    "city": "luang-prabang",
+    "poi": "sisavangvong-night-market",
+    "route_segment": "luang-prabang-night-market",
+    "suggested_day": "evening",
+    "tags": [
+      "vendors",
+      "t-shirts",
+      "beerlao",
+      "couple",
+      "night-market"
+    ],
+    "caption": "A husband and wife sitting peacefully beneath warm lightbulbs surrounded by classic Beerlao and Lao graphic t-shirts",
+    "orientation": "vertical"
+  },
+  {
+    "id": "la-lpq-nightmarket-03",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/luang-prabang-night-market/luang-prabang-night-market-hmong-embroidery-buying.webp",
+    "country": "la",
+    "city": "luang-prabang",
+    "poi": "sisavangvong-night-market",
+    "route_segment": "luang-prabang-night-market",
+    "suggested_day": "evening",
+    "tags": [
+      "hmong",
+      "embroidery",
+      "pouches",
+      "shopping",
+      "kip",
+      "money"
+    ],
+    "caption": "Crouching on the floor tarps to count Lao Kip banknotes for hand-stitched Hmong textile cosmetic bags",
+    "orientation": "vertical"
+  },
+  {
+    "id": "la-lpq-nightmarket-04",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/luang-prabang-night-market/luang-prabang-night-market-sa-paper-star-lanterns.webp",
+    "country": "la",
+    "city": "luang-prabang",
+    "poi": "sisavangvong-night-market",
+    "route_segment": "luang-prabang-night-market",
+    "suggested_day": "evening",
+    "tags": [
+      "lanterns",
+      "sa-paper",
+      "flowers",
+      "artisan",
+      "decor"
+    ],
+    "caption": "Handmade star lanterns sculpted from Mulberry Sa paper embedded with real pressed bougainvillea petals",
+    "orientation": "vertical"
+  },
+  {
+    "id": "la-lpq-nightmarket-05",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/luang-prabang-night-market/luang-prabang-night-market-silk-ikat-textile-artisan.webp",
+    "country": "la",
+    "city": "luang-prabang",
+    "poi": "sisavangvong-night-market",
+    "route_segment": "luang-prabang-night-market",
+    "suggested_day": "evening",
+    "tags": [
+      "silk",
+      "textiles",
+      "weaving",
+      "brocade",
+      "artisan",
+      "hmong"
+    ],
+    "caption": "Intricate Lao silk brocades and diamond-patterned ikat table runners tended by an artisan weaver",
+    "orientation": "vertical"
+  },
+  {
+    "id": "la-lpq-nightmarket-06",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/luang-prabang-night-market/luang-prabang-night-market-hmong-pleated-skirt-setup.webp",
+    "country": "la",
+    "city": "luang-prabang",
+    "poi": "sisavangvong-night-market",
+    "route_segment": "luang-prabang-night-market",
+    "suggested_day": "evening",
+    "tags": [
+      "hmong",
+      "skirt",
+      "setup",
+      "textiles",
+      "embroidery"
+    ],
+    "caption": "Setting up at 5:00 PM: dressing a mannequin in a crimson hand-embroidered Hmong pleated skirt on the pavement",
+    "orientation": "vertical"
+  },
+  {
+    "id": "la-lpq-nightmarket-07",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/luang-prabang-night-market/luang-prabang-night-market-cement-bag-totes-pouches.webp",
+    "country": "la",
+    "city": "luang-prabang",
+    "poi": "sisavangvong-night-market",
+    "route_segment": "luang-prabang-night-market",
+    "suggested_day": "evening",
+    "tags": [
+      "upcycled",
+      "cement-bag",
+      "pouches",
+      "elephant",
+      "totes"
+    ],
+    "caption": "Upcycled craftsmanship: drawstring pouches and coin bags sewn from traditional fabric and repurposed Lao cement sacks",
+    "orientation": "vertical"
+  },
+  {
+    "id": "la-lpq-nightmarket-08",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/luang-prabang-night-market/luang-prabang-night-market-pensive-vendor-blanket.webp",
+    "country": "la",
+    "city": "luang-prabang",
+    "poi": "sisavangvong-night-market",
+    "route_segment": "luang-prabang-night-market",
+    "suggested_day": "evening",
+    "tags": [
+      "vendor",
+      "portrait",
+      "stillness",
+      "embroidery",
+      "evening"
+    ],
+    "caption": "The quiet stillness of Luang Prabang: a vendor resting her chin in her hand as cool night air sets in",
+    "orientation": "vertical"
+  },
+  {
+    "id": "la-lpq-nightmarket-09",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/luang-prabang-night-market/luang-prabang-night-market-artisan-hand-stitching-embroidery.webp",
+    "country": "la",
+    "city": "luang-prabang",
+    "poi": "sisavangvong-night-market",
+    "route_segment": "luang-prabang-night-market",
+    "suggested_day": "evening",
+    "tags": [
+      "embroidery",
+      "hand-stitched",
+      "needlework",
+      "craftswoman",
+      "wooden-elephants"
+    ],
+    "caption": "Living heritage: stitching fine geometric needlework by hand under the streetlights beside hand-carved wooden elephants",
+    "orientation": "vertical"
+  },
+  {
+    "id": "la-lpq-nightmarket-10",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/luang-prabang-night-market/luang-prabang-night-market-artist-painting-wood-magnets.webp",
+    "country": "la",
+    "city": "luang-prabang",
+    "poi": "sisavangvong-night-market",
+    "route_segment": "luang-prabang-night-market",
+    "suggested_day": "evening",
+    "tags": [
+      "artist",
+      "painting",
+      "magnets",
+      "hand-painted",
+      "watercolors"
+    ],
+    "caption": "An artisan painting miniature Luang Prabang almsgiving scenes directly onto wood-slice magnets and handmade cards",
+    "orientation": "vertical"
+  },
+  {
+    "id": "la-lpq-nightmarket-11",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/luang-prabang-night-market/luang-prabang-night-market-sa-paper-monk-paintings.webp",
+    "country": "la",
+    "city": "luang-prabang",
+    "poi": "sisavangvong-night-market",
+    "route_segment": "luang-prabang-night-market",
+    "suggested_day": "evening",
+    "tags": [
+      "sa-paper",
+      "monks",
+      "paintings",
+      "scarf",
+      "straw-hats"
+    ],
+    "caption": "Fine woven white scarves and hand-painted Mulberry Sa paper artworks depicting monks walking under black parasols",
+    "orientation": "vertical"
+  },
+  {
+    "id": "la-lpq-nightmarket-12",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/luang-prabang-night-market/luang-prabang-night-market-vendor-friends-eating-curbside.webp",
+    "country": "la",
+    "city": "luang-prabang",
+    "poi": "sisavangvong-night-market",
+    "route_segment": "luang-prabang-night-market",
+    "suggested_day": "evening",
+    "tags": [
+      "food",
+      "friends",
+      "community",
+      "curbside",
+      "dinner"
+    ],
+    "caption": "Community over commerce: friends and stall neighbors sharing a steaming hot dinner bowl on the painted street curb",
+    "orientation": "vertical"
+  },
+  {
+    "id": "la-lpq-nightmarket-13",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/luang-prabang-night-market/luang-prabang-night-market-girl-lying-mat-phone-pouches.webp",
+    "country": "la",
+    "city": "luang-prabang",
+    "poi": "sisavangvong-night-market",
+    "route_segment": "luang-prabang-night-market",
+    "suggested_day": "evening",
+    "tags": [
+      "family",
+      "child",
+      "pouches",
+      "textiles",
+      "daily-life"
+    ],
+    "caption": "A daughter lying barefoot on woven reed mats tending her family’s spread of geometric textile purses",
+    "orientation": "vertical"
+  },
+  {
+    "id": "la-lpq-nightmarket-14",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/luang-prabang-night-market/luang-prabang-night-market-central-aisle-stroll.webp",
+    "country": "la",
+    "city": "luang-prabang",
+    "poi": "sisavangvong-night-market",
+    "route_segment": "luang-prabang-night-market",
+    "suggested_day": "evening",
+    "tags": [
+      "market-aisle",
+      "stroll",
+      "crowd",
+      "unhurried",
+      "night"
+    ],
+    "caption": "The unhurried rhythm of Sisavangvong Road: travelers strolling slowly beneath canvas awnings without anyone shouting",
+    "orientation": "vertical"
+  },
+  {
+    "id": "la-lpq-nightmarket-15",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/luang-prabang-night-market/luang-prabang-night-market-street-shake-cart-cafe.webp",
+    "country": "la",
+    "city": "luang-prabang",
+    "poi": "sisavangvong-night-market",
+    "route_segment": "luang-prabang-night-market",
+    "suggested_day": "evening",
+    "tags": [
+      "fruit-shakes",
+      "street-food",
+      "cart",
+      "drinks",
+      "cafe"
+    ],
+    "caption": "A mobile fruit shake cart under leafy street trees outside a heritage shophouse café and bookstore",
+    "orientation": "vertical"
+  },
+  {
+    "id": "la-lpq-nightmarket-16",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/luang-prabang-night-market/luang-prabang-night-market-elderly-woman-thip-khao-baskets.webp",
+    "country": "la",
+    "city": "luang-prabang",
+    "poi": "sisavangvong-night-market",
+    "route_segment": "luang-prabang-night-market",
+    "suggested_day": "evening",
+    "tags": [
+      "thip-khao",
+      "sticky-rice",
+      "baskets",
+      "elderly-vendor",
+      "textiles"
+    ],
+    "caption": "An elder vendor in red packing purchases beside stacks of woven bamboo Thip Khao sticky rice containers",
+    "orientation": "vertical"
+  },
+  {
+    "id": "la-lpq-nightmarket-17",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/luang-prabang-night-market/luang-prabang-night-market-monks-admiring-paintings.webp",
+    "country": "la",
+    "city": "luang-prabang",
+    "poi": "sisavangvong-night-market",
+    "route_segment": "luang-prabang-night-market",
+    "suggested_day": "evening",
+    "tags": [
+      "monks",
+      "buddhist",
+      "paintings",
+      "saffron-robes",
+      "art"
+    ],
+    "caption": "One of Luang Prabang's most moving sights: young Buddhist monks sitting barefoot on the road admiring local paintings",
+    "orientation": "vertical"
+  },
+  {
+    "id": "la-lpq-nightmarket-18",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/luang-prabang-night-market/luang-prabang-night-market-artist-painting-gold-apsara.webp",
+    "country": "la",
+    "city": "luang-prabang",
+    "poi": "sisavangvong-night-market",
+    "route_segment": "luang-prabang-night-market",
+    "suggested_day": "evening",
+    "tags": [
+      "artist",
+      "painting",
+      "gold-apsara",
+      "sa-paper",
+      "craftsmanship"
+    ],
+    "caption": "Mastery in plain sight: an artist painting a golden celestial figure onto thick Mulberry Sa paper on the pavement",
+    "orientation": "vertical"
+  },
+  {
+    "id": "la-lpq-nightmarket-19",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/luang-prabang-night-market/luang-prabang-night-market-tourist-girl-calculator-bargain.webp",
+    "country": "la",
+    "city": "luang-prabang",
+    "poi": "sisavangvong-night-market",
+    "route_segment": "luang-prabang-night-market",
+    "suggested_day": "evening",
+    "tags": [
+      "tourist",
+      "calculator",
+      "wood-crafts",
+      "bargaining",
+      "polite"
+    ],
+    "caption": "Gentle trade: a traveler examining carved wooden items while a young stallholder holds a calculator with a calm smile",
+    "orientation": "vertical"
+  },
+  {
+    "id": "la-lpq-nightmarket-20",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/luang-prabang-night-market/luang-prabang-night-market-walking-crowd-lanterns.webp",
+    "country": "la",
+    "city": "luang-prabang",
+    "poi": "sisavangvong-night-market",
+    "route_segment": "luang-prabang-night-market",
+    "suggested_day": "evening",
+    "tags": [
+      "crowd",
+      "evening",
+      "walking",
+      "night-market",
+      "atmosphere"
+    ],
+    "caption": "Visitors and locals wandering side by side in the cool mountain twilight along the 300-meter market stretch",
+    "orientation": "vertical"
+  },
+  {
+    "id": "la-lpq-nightmarket-21",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/luang-prabang-night-market/luang-prabang-night-market-girl-handmade-cloth-cups-coasters.webp",
+    "country": "la",
+    "city": "luang-prabang",
+    "poi": "sisavangvong-night-market",
+    "route_segment": "luang-prabang-night-market",
+    "suggested_day": "evening",
+    "tags": [
+      "coasters",
+      "straw-totes",
+      "girl",
+      "handmade",
+      "stitching"
+    ],
+    "caption": "Handmade cloth cup coasters and woven straw bags tended by a quiet young vendor sitting barefoot",
+    "orientation": "vertical"
+  },
+  {
+    "id": "la-lpq-nightmarket-22",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/luang-prabang-night-market/luang-prabang-night-market-antique-bronze-buddhas-urns.webp",
+    "country": "la",
+    "city": "luang-prabang",
+    "poi": "sisavangvong-night-market",
+    "route_segment": "luang-prabang-night-market",
+    "suggested_day": "evening",
+    "tags": [
+      "antiques",
+      "bronze-buddha",
+      "urns",
+      "brass",
+      "vintage"
+    ],
+    "caption": "Heritage treasures: antique bronze Buddha effigies, water urns, and brass cookers laid out on woven mats",
+    "orientation": "vertical"
+  },
+  {
+    "id": "la-lpq-nightmarket-23",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/luang-prabang-night-market/luang-prabang-night-market-smiling-artist-sunset-paintings.webp",
+    "country": "la",
+    "city": "luang-prabang",
+    "poi": "sisavangvong-night-market",
+    "route_segment": "luang-prabang-night-market",
+    "suggested_day": "evening",
+    "tags": [
+      "smiling-vendor",
+      "paintings",
+      "mekong-sunset",
+      "lanterns",
+      "portrait"
+    ],
+    "caption": "A radiant smile among glowing lanterns and vivid landscape paintings of longboats on the Mekong at sunset",
+    "orientation": "vertical"
+  },
+  {
+    "id": "la-lpq-nightmarket-24",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/luang-prabang-night-market/luang-prabang-night-market-hanging-lanterns-vendor-resting.webp",
+    "country": "la",
+    "city": "luang-prabang",
+    "poi": "sisavangvong-night-market",
+    "route_segment": "luang-prabang-night-market",
+    "suggested_day": "evening",
+    "tags": [
+      "lanterns",
+      "illuminated",
+      "pressed-flowers",
+      "elephants",
+      "sa-paper"
+    ],
+    "caption": "Geometric box lanterns made of Mulberry bark paper glowing warmly with pressed dried flowers and elephant silhouettes",
+    "orientation": "vertical"
+  },
+  {
+    "id": "la-lpq-nightmarket-25",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/luang-prabang-night-market/luang-prabang-night-market-sisters-baguette-sinh-skirts.webp",
+    "country": "la",
+    "city": "luang-prabang",
+    "poi": "sisavangvong-night-market",
+    "route_segment": "luang-prabang-night-market",
+    "suggested_day": "evening",
+    "tags": [
+      "sisters",
+      "baguette",
+      "sinh-skirts",
+      "indigo",
+      "daily-life"
+    ],
+    "caption": "French colonial echoes meet Lao tradition: enjoying a crusty baguette sandwich among woven indigo sinh skirts",
+    "orientation": "vertical"
+  },
+  {
+    "id": "la-lpq-nightmarket-26",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/luang-prabang-night-market/luang-prabang-night-market-wide-avenue-fruit-cart.webp",
+    "country": "la",
+    "city": "luang-prabang",
+    "poi": "sisavangvong-night-market",
+    "route_segment": "luang-prabang-night-market",
+    "suggested_day": "evening",
+    "tags": [
+      "sisavangvong",
+      "wide-street",
+      "night",
+      "lanterns",
+      "fruit-cart"
+    ],
+    "caption": "A grand perspective down Sisavangvong Road as night envelops the former royal capital",
+    "orientation": "vertical"
   }
 ]
