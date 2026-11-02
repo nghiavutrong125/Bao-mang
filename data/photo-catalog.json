@@ -1900,5 +1900,15 @@
     "height": 1600,
     "aspect_ratio": "3:4",
     "status": "original-optimized"
+  },
+  {
+    "filename": "vietnam-payment-methods-cash-cards-qr-code.webp",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/vietnam-payment/vietnam-payment-methods-cash-cards-qr-code.webp",
+    "article": "how-to-pay-in-vietnam",
+    "category": "Travel Tips",
+    "width": 1600,
+    "height": 900,
+    "aspect_ratio": "16:9",
+    "status": "hero-generated"
   }
 ]
