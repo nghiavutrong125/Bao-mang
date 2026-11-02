@@ -28,7 +28,7 @@ export const getMeta = async (
 
       const meta: ArticleMeta = {
         title: `${capitalizeFirstLetter(collection.data.title)} - ${SITE.title}`,
-        metaTitle: capitalizeFirstLetter(collection.data.title),
+        metaTitle: collection.id === "home" ? `${SITE.title} - ${SITE.description}` : capitalizeFirstLetter(collection.data.title),
         description: collection.data.description,
         ogImage: collection.data.cover.src,
         ogImageAlt: collection.data.covert_alt || collection.data.title,
@@ -61,7 +61,7 @@ export const getMeta = async (
 
       const meta: Meta = {
         title,
-        metaTitle: capitalizeFirstLetter(collection.data.title),
+        metaTitle: collection.id === "home" ? `${SITE.title} - ${SITE.description}` : capitalizeFirstLetter(collection.data.title),
         description: collection.data.description,
         ogImage: defaultImage.src,
         ogImageAlt: SITE.title,
