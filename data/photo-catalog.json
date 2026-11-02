@@ -783,5 +783,271 @@
     ],
     "caption": "A bustling downtown intersection in central Vientiane beneath crisp dry-season skies",
     "orientation": "vertical"
+  },
+  {
+    "id": "th-cnx-lantern-01",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/chiang-mai-lantern-festival/chiang-mai-loy-krathong-river-lanterns.webp",
+    "country": "th",
+    "city": "chiang-mai",
+    "poi": "ping-river",
+    "route_segment": "chiang-mai-lantern-festival",
+    "suggested_day": "day-1",
+    "tags": [
+      "festival",
+      "loy-krathong",
+      "river",
+      "water-lantern",
+      "night",
+      "tradition"
+    ],
+    "caption": "Candlelit floral krathongs floating along the water before traditional teak stilt pavilions",
+    "orientation": "vertical"
+  },
+  {
+    "id": "th-cnx-lantern-02",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/chiang-mai-lantern-festival/chiang-mai-yi-peng-mass-release-golden-sky.webp",
+    "country": "th",
+    "city": "chiang-mai",
+    "poi": "cad-cultural-centre",
+    "route_segment": "chiang-mai-lantern-festival",
+    "suggested_day": "day-2",
+    "tags": [
+      "festival",
+      "yi-peng",
+      "sky-lantern",
+      "mass-release",
+      "night",
+      "golden-sky"
+    ],
+    "caption": "Thousands of glowing rice paper lanterns filling the night sky during the mass release",
+    "orientation": "vertical"
+  },
+  {
+    "id": "th-cnx-lantern-03",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/chiang-mai-lantern-festival/chiang-mai-yi-peng-lantern-ascent-embers.webp",
+    "country": "th",
+    "city": "chiang-mai",
+    "poi": "cad-cultural-centre",
+    "route_segment": "chiang-mai-lantern-festival",
+    "suggested_day": "day-2",
+    "tags": [
+      "festival",
+      "yi-peng",
+      "lantern",
+      "ascent",
+      "embers",
+      "crowd"
+    ],
+    "caption": "A single illuminated lantern ascending over a sea of upturned faces into a sky of embers",
+    "orientation": "vertical"
+  },
+  {
+    "id": "th-cnx-lantern-04",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/chiang-mai-lantern-festival/chiang-mai-yi-peng-cad-stupa-spotlights.webp",
+    "country": "th",
+    "city": "chiang-mai",
+    "poi": "cad-cultural-centre",
+    "route_segment": "chiang-mai-lantern-festival",
+    "suggested_day": "day-2",
+    "tags": [
+      "festival",
+      "yi-peng",
+      "cad",
+      "stupa",
+      "spotlights",
+      "stage",
+      "architecture"
+    ],
+    "caption": "The illuminated CAD stupa stage with blue beam spotlights cutting through the lantern-filled sky",
+    "orientation": "vertical"
+  },
+  {
+    "id": "th-cnx-lantern-05",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/chiang-mai-lantern-festival/chiang-mai-yi-peng-lanterns-fireworks.webp",
+    "country": "th",
+    "city": "chiang-mai",
+    "poi": "cad-cultural-centre",
+    "route_segment": "chiang-mai-lantern-festival",
+    "suggested_day": "day-2",
+    "tags": [
+      "festival",
+      "yi-peng",
+      "fireworks",
+      "lanterns",
+      "climax",
+      "hero-wide"
+    ],
+    "caption": "The festival climax: floating lanterns illuminated by vibrant pink and gold fireworks bursts",
+    "orientation": "vertical"
+  },
+  {
+    "id": "th-cnx-lantern-06",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/chiang-mai-lantern-festival/chiang-mai-yi-peng-crowd-release-moment.webp",
+    "country": "th",
+    "city": "chiang-mai",
+    "poi": "cad-cultural-centre",
+    "route_segment": "chiang-mai-lantern-festival",
+    "suggested_day": "day-2",
+    "tags": [
+      "festival",
+      "yi-peng",
+      "crowd",
+      "release",
+      "hands",
+      "worship"
+    ],
+    "caption": "Festival attendees holding up their glowing lanterns in unison seconds before release",
+    "orientation": "vertical"
+  },
+  {
+    "id": "th-cnx-lantern-08",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/chiang-mai-lantern-festival/chiang-mai-yi-peng-grand-lantern-sea.webp",
+    "country": "th",
+    "city": "chiang-mai",
+    "poi": "cad-cultural-centre",
+    "route_segment": "chiang-mai-lantern-festival",
+    "suggested_day": "day-2",
+    "tags": [
+      "festival",
+      "yi-peng",
+      "lanterns",
+      "crowd",
+      "night",
+      "grand-view"
+    ],
+    "caption": "A breathtaking expanse of thousands of fiery lanterns floating upwards into deep space",
+    "orientation": "vertical"
+  },
+  {
+    "id": "th-cnx-lantern-09",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/chiang-mai-lantern-festival/chiang-mai-yi-peng-zenith-sky-constellation.webp",
+    "country": "th",
+    "city": "chiang-mai",
+    "poi": "cad-cultural-centre",
+    "route_segment": "chiang-mai-lantern-festival",
+    "suggested_day": "day-2",
+    "tags": [
+      "festival",
+      "yi-peng",
+      "sky",
+      "zenith",
+      "stars",
+      "lantern-constellation"
+    ],
+    "caption": "Looking directly overhead into the night zenith transformed into a living constellation of fire",
+    "orientation": "vertical"
+  },
+  {
+    "id": "th-cnx-lantern-10",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/chiang-mai-lantern-festival/chiang-mai-festival-traffic-twilight-gridlock.webp",
+    "country": "th",
+    "city": "chiang-mai",
+    "poi": "chiang-mai-traffic",
+    "route_segment": "chiang-mai-lantern-festival",
+    "suggested_day": "day-1",
+    "tags": [
+      "traffic",
+      "gridlock",
+      "twilight",
+      "scooter",
+      "police-box",
+      "reality"
+    ],
+    "caption": "Chiang Mai festival traffic gridlock: motorbikes and cars stopped at dusk beneath tangled power lines",
+    "orientation": "vertical"
+  },
+  {
+    "id": "th-cnx-lantern-11",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/chiang-mai-lantern-festival/chiang-mai-cityscape-doi-suthep-view.webp",
+    "country": "th",
+    "city": "chiang-mai",
+    "poi": "doi-suthep-view",
+    "route_segment": "chiang-mai-city-exploration",
+    "suggested_day": "day-1",
+    "tags": [
+      "cityscape",
+      "doi-suthep",
+      "mountain",
+      "aerial",
+      "nimman"
+    ],
+    "caption": "High-angle rooftop view overlooking Chiang Mai avenues toward the forested peaks of Doi Suthep",
+    "orientation": "vertical"
+  },
+  {
+    "id": "th-cnx-lantern-12",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/chiang-mai-lantern-festival/chiang-mai-nimman-intersection-daytime.webp",
+    "country": "th",
+    "city": "chiang-mai",
+    "poi": "nimman-intersection",
+    "route_segment": "chiang-mai-city-exploration",
+    "suggested_day": "day-1",
+    "tags": [
+      "city",
+      "traffic-light",
+      "nimman",
+      "superhighway",
+      "daytime"
+    ],
+    "caption": "Daytime crossing near Nimmanhaemin road beneath clear northern Thai skies",
+    "orientation": "vertical"
+  },
+  {
+    "id": "th-cnx-lantern-13",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/chiang-mai-lantern-festival/chiang-mai-nimman-street-food-market.webp",
+    "country": "th",
+    "city": "chiang-mai",
+    "poi": "one-nimman",
+    "route_segment": "chiang-mai-city-exploration",
+    "suggested_day": "day-1",
+    "tags": [
+      "market",
+      "street-food",
+      "one-nimman",
+      "afternoon",
+      "stalls",
+      "food"
+    ],
+    "caption": "Afternoon food and craft stalls under umbrellas in the brick courtyard of One Nimman",
+    "orientation": "vertical"
+  },
+  {
+    "id": "th-cnx-lantern-14",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/chiang-mai-lantern-festival/chiang-mai-cad-festival-grounds-arrival.webp",
+    "country": "th",
+    "city": "chiang-mai",
+    "poi": "cad-cultural-centre",
+    "route_segment": "chiang-mai-lantern-festival",
+    "suggested_day": "day-2",
+    "tags": [
+      "cad",
+      "premium-zone",
+      "arrival",
+      "afternoon",
+      "white-clothes",
+      "mountains"
+    ],
+    "caption": "Afternoon arrival at the CAD festival grounds with visitors dressed in white against misty mountain backdrops",
+    "orientation": "vertical"
+  },
+  {
+    "id": "th-cnx-lantern-15",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/chiang-mai-lantern-festival/chiang-mai-cad-lanna-buffet-dinner-twilight.webp",
+    "country": "th",
+    "city": "chiang-mai",
+    "poi": "cad-cultural-centre",
+    "route_segment": "chiang-mai-lantern-festival",
+    "suggested_day": "day-2",
+    "tags": [
+      "cad",
+      "dinner",
+      "buffet",
+      "twilight",
+      "fairy-lights",
+      "bamboo-tables",
+      "food"
+    ],
+    "caption": "The pre-release Lanna dinner buffet at twilight beneath fairy-lit rain trees and bamboo benches",
+    "orientation": "vertical"
   }
 ]
