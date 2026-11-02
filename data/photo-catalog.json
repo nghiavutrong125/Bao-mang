@@ -1850,5 +1850,55 @@
     "height": 900,
     "aspect_ratio": "16:9",
     "status": "outpainted-16x9"
+  },
+  {
+    "filename": "vung-tau-christ-statue-mount-nho-hero.webp",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/vung-tau-christ-statue/vung-tau-christ-statue-mount-nho-hero.webp",
+    "article": "climbing-vung-tau-christ-statue-honest-guide",
+    "category": "Destinations",
+    "width": 1600,
+    "height": 900,
+    "aspect_ratio": "16:9",
+    "status": "hero-outpainted"
+  },
+  {
+    "filename": "vung-tau-christ-statue-stone-staircase-ocean-view.webp",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/vung-tau-christ-statue/vung-tau-christ-statue-stone-staircase-ocean-view.webp",
+    "article": "climbing-vung-tau-christ-statue-honest-guide",
+    "category": "Destinations",
+    "width": 1600,
+    "height": 1200,
+    "aspect_ratio": "4:3",
+    "status": "original-optimized"
+  },
+  {
+    "filename": "vung-tau-christ-statue-mount-nho-base.webp",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/vung-tau-christ-statue/vung-tau-christ-statue-mount-nho-base.webp",
+    "article": "climbing-vung-tau-christ-statue-honest-guide",
+    "category": "Destinations",
+    "width": 1200,
+    "height": 1600,
+    "aspect_ratio": "3:4",
+    "status": "original-optimized"
+  },
+  {
+    "filename": "vung-tau-christ-statue-interior-spiral-staircase.webp",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/vung-tau-christ-statue/vung-tau-christ-statue-interior-spiral-staircase.webp",
+    "article": "climbing-vung-tau-christ-statue-honest-guide",
+    "category": "Destinations",
+    "width": 1200,
+    "height": 1600,
+    "aspect_ratio": "3:4",
+    "status": "original-optimized"
+  },
+  {
+    "filename": "vung-tau-christ-statue-shoulder-view-hon-ba-island.webp",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/vung-tau-christ-statue/vung-tau-christ-statue-shoulder-view-hon-ba-island.webp",
+    "article": "climbing-vung-tau-christ-statue-honest-guide",
+    "category": "Destinations",
+    "width": 1200,
+    "height": 1600,
+    "aspect_ratio": "3:4",
+    "status": "original-optimized"
   }
 ]
