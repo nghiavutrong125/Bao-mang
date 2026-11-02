@@ -1,23 +1,21 @@
 import type { Link } from "../types";
 
 export const SITE = {
-  title: "Fifty Fifty Magazine",
+  title: "50fiftymagazine",
   description: "Unfiltered Travel, Culture & Honest Perspectives.",
   author: "The Editorial Desk",
-  url: "https://fiftyfiftymag.com",
+  url: "https://50fiftymagazine.com",
   github: "https://github.com",
   locale: "en-US",
   dir: "ltr",
   charset: "UTF-8",
   basePath: "/",
   postsPerPage: 6,
+  googleSiteVerification: import.meta.env.PUBLIC_GOOGLE_SITE_VERIFICATION || "",
+  googleAnalyticsId: import.meta.env.PUBLIC_GA_ID || "G-01LKYRCLK2",
 };
 
 export const NAVIGATION_LINKS: Link[] = [
-  {
-    href: "/categories/itineraries",
-    text: "Itineraries",
-  },
   {
     href: "/categories/destinations",
     text: "Destinations",

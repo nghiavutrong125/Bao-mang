@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://fiftyfiftymag.com/sitemap-index.xml
+Sitemap: https://50fiftymagazine.com/sitemap-index.xml

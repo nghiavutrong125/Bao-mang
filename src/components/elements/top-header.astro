@@ -20,8 +20,8 @@ import ThemeController from "../bases/theme-controller.astro";
     </a>
   </div>
 
-  <!-- Center: Editorial Newspaper Masthead Text -->
-  <div class="navbar-center">
+  <!-- Center: Editorial Newspaper Masthead Text (hidden on mobile to prevent overflow) -->
+  <div class="navbar-center hidden md:flex">
     <a
       href="/"
       class="text-xl sm:text-2xl lg:text-3xl font-serif font-black tracking-tight text-base-content hover:opacity-85 transition-opacity text-nowrap"

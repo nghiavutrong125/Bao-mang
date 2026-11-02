@@ -33,7 +33,7 @@
   }
 
   body {
-    @apply font-sans antialiased h-full;
+    @apply font-sans antialiased h-full overflow-x-hidden;
   }
 
   h1,
@@ -46,6 +46,12 @@
     @apply text-sm;
   }
   .prose {
+    table {
+      display: block;
+      width: 100%;
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+    }
     pre {
       code {
         span,

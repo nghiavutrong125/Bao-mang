@@ -48,6 +48,39 @@ const OGImage = new URL(meta.ogImage, Astro.url).href;
   <!-- Canonical URL -->
   <link rel="canonical" href={canonicalURL} />
 
+  <!-- Google Search Console Verification -->
+  {
+    SITE.googleSiteVerification && (
+      <meta name="google-site-verification" content={SITE.googleSiteVerification} />
+    )
+  }
+
+  <!-- Google Analytics 4 (Google Tag) -->
+  {
+    SITE.googleAnalyticsId && (
+      <>
+        <script
+          is:inline
+          async
+          src={`https://www.googletagmanager.com/gtag/js?id=${SITE.googleAnalyticsId}`}
+        />
+        <script is:inline define:vars={{ gaId: SITE.googleAnalyticsId }}>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', gaId);
+
+          document.addEventListener('astro:page-load', () => {
+            gtag('config', gaId, {
+              page_path: window.location.pathname,
+              page_title: document.title,
+            });
+          });
+        </script>
+      </>
+    )
+  }
+
   <!-- Page Metadata -->
   <title>{meta.title}</title>
   <meta name="title" content={meta.metaTitle} />

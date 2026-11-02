@@ -18,9 +18,9 @@ const meta = await getMeta(entry);
 <!doctype html>
 <html lang={SITE.locale} dir={SITE.dir}>
   <Head meta={meta} />
-  <body class="flex flex-col">
+  <body class="flex flex-col min-h-screen overflow-x-hidden">
     <Header />
-    <main class="flex-1">
+    <main class="flex-1 w-full max-w-full">
       <slot />
     </main>
     <Footer />
