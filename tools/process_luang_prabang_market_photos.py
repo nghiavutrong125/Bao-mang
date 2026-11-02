@@ -368,3 +368,4 @@ with open(CATALOG_PATH, "w", encoding="utf-8") as f:
     json.dump(catalog, f, indent=2, ensure_ascii=False)
 
 print(f"Updated {CATALOG_PATH} with {len(processed_items)} items. Total in catalog: {len(catalog)}")
+
