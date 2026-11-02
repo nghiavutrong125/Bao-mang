@@ -1049,5 +1049,305 @@
     ],
     "caption": "The pre-release Lanna dinner buffet at twilight beneath fairy-lit rain trees and bamboo benches",
     "orientation": "vertical"
+  },
+  {
+    "id": "th-cnx-inthakin-01",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/chiang-mai-inthakin-festival/chiang-mai-inthakin-lanna-maidens-red-umbrellas.webp",
+    "country": "th",
+    "city": "chiang-mai",
+    "poi": "wat-chedi-luang",
+    "route_segment": "chiang-mai-inthakin-city-pillar",
+    "suggested_day": "day-1",
+    "tags": [
+      "festival",
+      "inthakin",
+      "khan-dok",
+      "lanna",
+      "maidens",
+      "umbrella",
+      "hero-wide"
+    ],
+    "caption": "Lanna women in traditional striped sinh skirts and crimson parasols carrying flower offerings",
+    "orientation": "vertical"
+  },
+  {
+    "id": "th-cnx-inthakin-02",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/chiang-mai-inthakin-festival/chiang-mai-inthakin-maiden-red-parasol-portrait.webp",
+    "country": "th",
+    "city": "chiang-mai",
+    "poi": "wat-chedi-luang",
+    "route_segment": "chiang-mai-inthakin-city-pillar",
+    "suggested_day": "day-1",
+    "tags": [
+      "festival",
+      "portrait",
+      "lanna",
+      "beauty",
+      "umbrella",
+      "flowers"
+    ],
+    "caption": "Portrait of a young northern Thai woman holding a crimson oiled-paper umbrella with hair orchids",
+    "orientation": "vertical"
+  },
+  {
+    "id": "th-cnx-inthakin-03",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/chiang-mai-inthakin-festival/chiang-mai-inthakin-children-dance-procession.webp",
+    "country": "th",
+    "city": "chiang-mai",
+    "poi": "tha-phae-gate",
+    "route_segment": "chiang-mai-inthakin-city-pillar",
+    "suggested_day": "day-1",
+    "tags": [
+      "festival",
+      "procession",
+      "children",
+      "dance",
+      "lanna-dance",
+      "street"
+    ],
+    "caption": "Young Lanna children performing traditional ceremonial street dances, scattering flower petals",
+    "orientation": "vertical"
+  },
+  {
+    "id": "th-cnx-inthakin-04",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/chiang-mai-inthakin-festival/chiang-mai-inthakin-young-dancers-flower-pedestals.webp",
+    "country": "th",
+    "city": "chiang-mai",
+    "poi": "tha-phae-gate",
+    "route_segment": "chiang-mai-inthakin-city-pillar",
+    "suggested_day": "day-1",
+    "tags": [
+      "festival",
+      "procession",
+      "children",
+      "dance",
+      "monks",
+      "culture"
+    ],
+    "caption": "Processional youth dancers holding red lacquer pedestal trays before saffron-robed monks",
+    "orientation": "vertical"
+  },
+  {
+    "id": "th-cnx-inthakin-05",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/chiang-mai-inthakin-festival/chiang-mai-inthakin-sacred-buddha-thaphae-gate.webp",
+    "country": "th",
+    "city": "chiang-mai",
+    "poi": "tha-phae-gate",
+    "route_segment": "chiang-mai-inthakin-city-pillar",
+    "suggested_day": "day-1",
+    "tags": [
+      "festival",
+      "phra-chao-fon-saen-ha",
+      "tha-phae-gate",
+      "chariot",
+      "procession",
+      "brick-wall"
+    ],
+    "caption": "The sacred Phra Chao Fon Saen Ha rain Buddha paraded through the red brick arches of Tha Phae Gate",
+    "orientation": "vertical"
+  },
+  {
+    "id": "th-cnx-inthakin-06",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/chiang-mai-inthakin-festival/chiang-mai-inthakin-floral-hair-ornament-detail.webp",
+    "country": "th",
+    "city": "chiang-mai",
+    "poi": "wat-chedi-luang",
+    "route_segment": "chiang-mai-inthakin-city-pillar",
+    "suggested_day": "day-1",
+    "tags": [
+      "craft",
+      "hair-ornament",
+      "detail",
+      "orchids",
+      "brocade",
+      "sabai"
+    ],
+    "caption": "Intricate fresh flower bun ornament and embroidered green silk sabai sash of a Lanna maiden",
+    "orientation": "horizontal"
+  },
+  {
+    "id": "th-cnx-inthakin-07",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/chiang-mai-inthakin-festival/chiang-mai-inthakin-festival-banner-procession.webp",
+    "country": "th",
+    "city": "chiang-mai",
+    "poi": "old-city-chiang-mai",
+    "route_segment": "chiang-mai-inthakin-city-pillar",
+    "suggested_day": "day-1",
+    "tags": [
+      "procession",
+      "banner",
+      "lanna-costume",
+      "couple",
+      "street"
+    ],
+    "caption": "Young couple dressed in regal Lanna silk carrying the ceremonial festival banner through town",
+    "orientation": "vertical"
+  },
+  {
+    "id": "th-cnx-inthakin-08",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/chiang-mai-inthakin-festival/chiang-mai-inthakin-rain-buddha-phra-chao-fon-saen-ha.webp",
+    "country": "th",
+    "city": "chiang-mai",
+    "poi": "wat-chedi-luang",
+    "route_segment": "chiang-mai-inthakin-city-pillar",
+    "suggested_day": "day-1",
+    "tags": [
+      "buddha",
+      "phra-chao-fon-saen-ha",
+      "stupa",
+      "parasol",
+      "sacred",
+      "gold"
+    ],
+    "caption": "Phra Chao Fon Saen Ha (Rain-Bringing Buddha) enshrined beneath the white royal umbrella before the stupa",
+    "orientation": "vertical"
+  },
+  {
+    "id": "th-cnx-inthakin-09",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/chiang-mai-inthakin-festival/chiang-mai-inthakin-gilded-shrine-standing-buddha.webp",
+    "country": "th",
+    "city": "chiang-mai",
+    "poi": "wat-chedi-luang",
+    "route_segment": "chiang-mai-inthakin-city-pillar",
+    "suggested_day": "day-1",
+    "tags": [
+      "temple",
+      "shrine",
+      "standing-buddha",
+      "gilded",
+      "wat-chedi-luang"
+    ],
+    "caption": "Gilded teakwood tabernacle enshrining a standing Buddha inside the temple sanctuary",
+    "orientation": "vertical"
+  },
+  {
+    "id": "th-cnx-inthakin-10",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/chiang-mai-inthakin-festival/chiang-mai-inthakin-maiden-silver-offering-bowl.webp",
+    "country": "th",
+    "city": "chiang-mai",
+    "poi": "wat-chedi-luang",
+    "route_segment": "chiang-mai-inthakin-city-pillar",
+    "suggested_day": "day-1",
+    "tags": [
+      "portrait",
+      "maiden",
+      "silver-bowl",
+      "khan-dok",
+      "marigold",
+      "jasmine"
+    ],
+    "caption": "Young woman carrying an embossed Lanna silver bowl filled with marigold and jasmine offerings",
+    "orientation": "vertical"
+  },
+  {
+    "id": "th-cnx-inthakin-11",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/chiang-mai-inthakin-festival/chiang-mai-inthakin-men-traditional-khan-dok-trays.webp",
+    "country": "th",
+    "city": "chiang-mai",
+    "poi": "old-city-chiang-mai",
+    "route_segment": "chiang-mai-inthakin-city-pillar",
+    "suggested_day": "day-1",
+    "tags": [
+      "men",
+      "lanna-costume",
+      "khan-dok",
+      "pedestal",
+      "flowers",
+      "procession"
+    ],
+    "caption": "Men in gold-brocaded silk tunics carrying tiered wooden Khan Dok offering pedestals",
+    "orientation": "vertical"
+  },
+  {
+    "id": "th-cnx-inthakin-12",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/chiang-mai-inthakin-festival/chiang-mai-inthakin-ceremonial-elders-procession.webp",
+    "country": "th",
+    "city": "chiang-mai",
+    "poi": "old-city-chiang-mai",
+    "route_segment": "chiang-mai-inthakin-city-pillar",
+    "suggested_day": "day-1",
+    "tags": [
+      "elders",
+      "ceremony",
+      "royal-costume",
+      "silver-urn",
+      "tradition"
+    ],
+    "caption": "Ceremonial leaders in white and gold royal garments carrying sanctified water urns",
+    "orientation": "vertical"
+  },
+  {
+    "id": "th-cnx-inthakin-13",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/chiang-mai-inthakin-festival/chiang-mai-inthakin-two-maidens-red-umbrella.webp",
+    "country": "th",
+    "city": "chiang-mai",
+    "poi": "wat-chedi-luang",
+    "route_segment": "chiang-mai-inthakin-city-pillar",
+    "suggested_day": "day-1",
+    "tags": [
+      "portrait",
+      "maidens",
+      "umbrella",
+      "silk",
+      "sinh",
+      "sabai"
+    ],
+    "caption": "Two northern Thai women under a crimson paper parasol in woven silk sashes and gold belts",
+    "orientation": "vertical"
+  },
+  {
+    "id": "th-cnx-inthakin-14",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/chiang-mai-inthakin-festival/chiang-mai-inthakin-mother-and-child-procession.webp",
+    "country": "th",
+    "city": "chiang-mai",
+    "poi": "old-city-chiang-mai",
+    "route_segment": "chiang-mai-inthakin-city-pillar",
+    "suggested_day": "day-1",
+    "tags": [
+      "family",
+      "mother-child",
+      "tradition",
+      "jasmine-garland",
+      "lanna-dress"
+    ],
+    "caption": "A mother and young boy wearing traditional headdresses and jasmine floral garlands in the parade",
+    "orientation": "vertical"
+  },
+  {
+    "id": "th-cnx-inthakin-15",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/chiang-mai-inthakin-festival/chiang-mai-inthakin-fon-leb-fingernail-dancers.webp",
+    "country": "th",
+    "city": "chiang-mai",
+    "poi": "old-city-chiang-mai",
+    "route_segment": "chiang-mai-inthakin-city-pillar",
+    "suggested_day": "day-1",
+    "tags": [
+      "dance",
+      "fon-leb",
+      "fingernail-dance",
+      "terracotta-shawl",
+      "tradition"
+    ],
+    "caption": "Traditional Fon Leb fingernail dance troupe in matching terracotta shawls gliding down the street",
+    "orientation": "vertical"
+  },
+  {
+    "id": "th-cnx-inthakin-16",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/chiang-mai-inthakin-festival/chiang-mai-inthakin-guardian-deva-statue-bw.webp",
+    "country": "th",
+    "city": "chiang-mai",
+    "poi": "wat-chedi-luang",
+    "route_segment": "chiang-mai-inthakin-city-pillar",
+    "suggested_day": "day-1",
+    "tags": [
+      "statue",
+      "deva",
+      "temple",
+      "black-and-white",
+      "praying",
+      "sacred"
+    ],
+    "caption": "A stone celestial guardian spirit standing vigil with hands pressed in prayer at the temple steps",
+    "orientation": "vertical"
   }
 ]
