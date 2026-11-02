@@ -6,6 +6,8 @@ export const SITE = {
   author: "The Editorial Desk",
   url: "https://50fiftymagazine.com",
   github: "https://github.com",
+  twitter: "https://x.com/50fiftymgz",
+  twitterHandle: "@50fiftymgz",
   locale: "en-US",
   dir: "ltr",
   charset: "UTF-8",
@@ -71,8 +73,8 @@ export const OTHER_LINKS: Link[] = [
 
 export const SOCIAL_LINKS: Link[] = [
   {
-    href: "https://twitter.com",
-    text: "Twitter",
+    href: "https://x.com/50fiftymgz",
+    text: "X",
     icon: "newTwitter",
   },
   {

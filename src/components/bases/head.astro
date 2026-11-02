@@ -94,8 +94,9 @@ const OGImage = new URL(meta.ogImage, Astro.url).href;
   <meta property="og:image" content={OGImage} />
   <meta property="og:image:alt" content={meta.ogImageAlt} />
 
-  <!-- Twitter -->
-  <meta property="twitter:site" content={Astro.site} />
+  <!-- Twitter / X -->
+  <meta property="twitter:site" content={SITE.twitterHandle} />
+  <meta property="twitter:creator" content={SITE.twitterHandle} />
   <meta property="twitter:card" content="summary_large_image" />
   <meta property="twitter:url" content={canonicalURL} />
   <meta property="twitter:title" content={meta.metaTitle} />
