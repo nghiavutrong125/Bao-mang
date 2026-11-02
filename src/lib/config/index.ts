@@ -77,9 +77,4 @@ export const SOCIAL_LINKS: Link[] = [
     text: "X",
     icon: "newTwitter",
   },
-  {
-    href: "https://www.facebook.com",
-    text: "Facebook",
-    icon: "facebook",
-  },
 ];
