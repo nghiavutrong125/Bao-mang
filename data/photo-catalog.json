@@ -1,5 +1,25 @@
 [
   {
+    "id": "th-cnx-inthakin-hero-cover",
+    "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/chiang-mai-inthakin-festival/chiang-mai-inthakin-wat-chedi-luang-hero-cover.webp",
+    "country": "th",
+    "city": "chiang-mai",
+    "poi": "wat-chedi-luang",
+    "route_segment": "chiang-mai-inthakin-city-pillar",
+    "suggested_day": "day-1",
+    "tags": [
+      "hero",
+      "cover",
+      "lanna-women",
+      "wat-chedi-luang",
+      "stupa",
+      "khan-dok",
+      "marigolds"
+    ],
+    "caption": "Four Lanna women in traditional silk carrying golden flower offering trays before the historic brick chedi of Wat Chedi Luang",
+    "orientation": "horizontal"
+  },
+  {
     "id": "la-vte-thatluang-01",
     "url": "https://pub-a444990dcfe849f3bdc97bf8dc4ca482.r2.dev/2026/11/pha-that-luang-vientiane/pha-that-luang-esplanade-square.webp",
     "country": "la",
