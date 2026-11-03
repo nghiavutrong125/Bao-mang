@@ -40,4 +40,20 @@ export const articlesHandler = {
       );
     return subHeadlines;
   },
+
+  relatedArticles: (currentArticleId: string, categoryId?: string, limit: number = 3) => {
+    const sameCategory = articlesCollection.filter(
+      (article) =>
+        article.id !== currentArticleId &&
+        article.data.category?.id === categoryId
+    );
+
+    const otherArticles = articlesCollection.filter(
+      (article) =>
+        article.id !== currentArticleId &&
+        article.data.category?.id !== categoryId
+    );
+
+    return [...sameCategory, ...otherArticles].slice(0, limit);
+  },
 };

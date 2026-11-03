@@ -1,0 +1,108 @@
+---
+import type { CollectionEntry } from "astro:content";
+import { Image } from "astro:assets";
+import { authorsHandler } from "@/lib/handlers/authors";
+import { categoriesHandler } from "@/lib/handlers/categories";
+import { articlesHandler } from "@/lib/handlers/articles";
+import NewsCard from "@/components/cards/newsCard.astro";
+import NewTwitter from "@/assets/svgs/new-twitter.astro";
+
+type Props = {
+  article: CollectionEntry<"articles">;
+};
+
+const { article } = Astro.props;
+
+const authors = authorsHandler.getAuthors(article.data.authors);
+const author = authors[0];
+const category = categoriesHandler.oneCategory(article.data.category.id);
+const related = articlesHandler.relatedArticles(article.id, article.data.category.id, 3);
+---
+
+<div class="w-full border-t border-base-300 mt-12 pt-10">
+  <div class="container max-w-5xl mx-auto px-4">
+    <!-- Author Bio Box -->
+    {
+      author && (
+        <aside class="bg-base-200/50 border border-base-content/10 rounded-2xl p-6 sm:p-8 flex flex-col sm:flex-row items-center sm:items-start gap-5 sm:gap-6 text-center sm:text-left mb-14">
+          <div class="shrink-0">
+            <Image
+              src={author.data.avatar}
+              alt={author.data.name}
+              width={80}
+              height={80}
+              class="w-18 h-18 sm:w-20 sm:h-20 rounded-full object-cover border-2 border-base-content/15 shadow-xs"
+            />
+          </div>
+          <div class="flex-1">
+            <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-2 mb-1.5">
+              <div>
+                <span class="text-xs font-semibold uppercase tracking-wider text-base-content/60">
+                  Published By
+                </span>
+                <h3 class="text-xl font-serif font-bold text-base-content">
+                  <a href={`/authors/${author.id}`} class="hover:underline">
+                    {author.data.name}
+                  </a>
+                </h3>
+              </div>
+              {author.data.social && author.data.social.length > 0 && (
+                <div class="flex items-center justify-center sm:justify-start gap-2">
+                  {author.data.social.map((s) => (
+                    <a
+                      href={s.url}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      aria-label={s.name}
+                      class="btn btn-ghost btn-circle btn-sm text-base-content/70 hover:text-base-content"
+                      title={`Follow on ${s.name}`}
+                    >
+                      <NewTwitter />
+                    </a>
+                  ))}
+                </div>
+              )}
+            </div>
+            <p class="text-xs sm:text-sm font-semibold text-primary dark:text-secondary mb-2">
+              {author.data.job}
+            </p>
+            <p class="text-sm text-base-content/80 leading-relaxed max-w-2xl">
+              {author.data.bio}
+            </p>
+          </div>
+        </aside>
+      )
+    }
+
+    <!-- Related Stories / Read Next Section -->
+    {
+      related && related.length > 0 && (
+        <section aria-labelledby="related-stories-heading" class="mb-16">
+          <div class="flex flex-col sm:flex-row sm:items-end justify-between gap-3 mb-8 pb-3 border-b border-base-300">
+            <div>
+              <span class="text-xs font-bold tracking-widest uppercase text-primary dark:text-secondary">
+                Read Next
+              </span>
+              <h2 id="related-stories-heading" class="text-2xl sm:text-3xl font-serif font-bold text-base-content mt-1">
+                More From 50/FIFTY
+              </h2>
+            </div>
+            <a
+              href={`/categories/${category.id}`}
+              class="text-sm font-semibold text-primary dark:text-secondary hover:underline inline-flex items-center gap-1 group"
+            >
+              Explore {category.data.title}
+              <span class="group-hover:translate-x-1 transition-transform">→</span>
+            </a>
+          </div>
+
+          <div class="grid grid-cols-1 md:grid-cols-3 gap-6 lg:gap-8">
+            {related.map((item, idx) => (
+              <NewsCard article={item} index={idx} />
+            ))}
+          </div>
+        </section>
+      )
+    }
+  </div>
+</div>

@@ -3,6 +3,7 @@ import { render } from "astro:content";
 import BaseLayout from "@/layouts/base.astro";
 import ContentLayout from "@/layouts/content.astro";
 import ArticleHeader from "./_components/article-header.astro";
+import ArticleFooter from "./_components/article-footer.astro";
 
 import { articlesHandler } from "@/lib/handlers/articles";
 
@@ -27,4 +28,5 @@ const { Content, remarkPluginFrontmatter } = await render(article);
   <ContentLayout>
     <Content />
   </ContentLayout>
+  <ArticleFooter article={article} />
 </BaseLayout>
