@@ -57,7 +57,7 @@ const OGImage = new URL(meta.ogImage, Astro.url).href;
 
   <!-- Google Analytics 4 (Google Tag) -->
   {
-    SITE.googleAnalyticsId && (
+    import.meta.env.PROD && SITE.googleAnalyticsId && (
       <>
         <script
           is:inline
@@ -65,17 +65,23 @@ const OGImage = new URL(meta.ogImage, Astro.url).href;
           src={`https://www.googletagmanager.com/gtag/js?id=${SITE.googleAnalyticsId}`}
         />
         <script is:inline define:vars={{ gaId: SITE.googleAnalyticsId }}>
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-          gtag('config', gaId);
+          if (
+            !['localhost', '127.0.0.1'].includes(window.location.hostname) &&
+            !window.location.hostname.startsWith('192.168.') &&
+            !window.location.hostname.startsWith('169.254.')
+          ) {
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', gaId);
 
-          document.addEventListener('astro:page-load', () => {
-            gtag('config', gaId, {
-              page_path: window.location.pathname,
-              page_title: document.title,
+            document.addEventListener('astro:page-load', () => {
+              gtag('config', gaId, {
+                page_path: window.location.pathname,
+                page_title: document.title,
+              });
             });
-          });
+          }
         </script>
       </>
     )
